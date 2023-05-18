@@ -47,13 +47,11 @@ Os testes utilizam o Mockito para simular dependências e garantir a correção 
 
 Este projeto tem como objetivo demonstrar o desenvolvimento de um aplicativo Flutter seguindo altos padrões de qualidade, como Clean Architecture, princípios SOLID e desenvolvimento orientado a testes. Se tiver alguma dúvida ou feedback, sinta-se à vontade para entrar em contato. Divirta-se explorando o universo dos filmes da Marvel e DC!
 
-
-![Home Page Mock](https://github.com/jumpercs/gen_films_listing/assets/60657808/a2148f81-f23d-436a-85bc-3b6ea01630c8)
-
-![Home Page Consumindo API Real](https://github.com/jumpercs/gen_films_listing/assets/60657808/f30e3711-6737-44c1-85ee-25acb87ffd92)
-
-![Home Page Filme Detalhes](https://github.com/jumpercs/gen_films_listing/assets/60657808/360febed-08c8-4b09-96fc-09ddf02eb345)
-
-![Home Page Filme Detalhes 2](https://github.com/jumpercs/gen_films_listing/assets/60657808/15372a3e-defc-4d05-9914-09b90a287dde)
-
-```
+<p align="center">
+  <img src="https://github.com/jumpercs/gen_films_listing/assets/60657808/a2148f81-f23d-436a-85bc-3b6ea01630c8" width="350" title="Home Page Mock">
+   <img src="https://github.com/jumpercs/gen_films_listing/assets/60657808/f30e3711-6737-44c1-85ee-25acb87ffd92" width="350" title="Home Page Consumindo API Real">
+</p>
+<p align="center">
+  <img src="https://github.com/jumpercs/gen_films_listing/assets/60657808/360febed-08c8-4b09-96fc-09ddf02eb345" width="350" title="Home Page Filme Detalhe">
+   <img src="https://github.com/jumpercs/gen_films_listing/assets/60657808/15372a3e-defc-4d05-9914-09b90a287dde" width="350" title="Home Page Filme Detalhe 2">
+</p>
