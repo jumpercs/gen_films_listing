@@ -41,9 +41,7 @@ O projeto segue uma estrutura organizada, aderindo ao padrão Clean Architecture
       - **external**: Contém a implementação da camada externa.
         - **datasources**: Fornece implementações concretas dos datasources externos.
       - **presentation**: Contém a implementação da camada de apresentação.
-        - **home_list**:
-
- Implementa a tela de listagem de filmes da Marvel (e com bônus da DC).
+        - **home_list**: Implementa a tela de listagem de filmes da Marvel (e com bônus da DC).
     - **shared**: Contém recursos compartilhados entre os módulos, como widgets e constantes úteis.
     - **utils**: Contém utilitários e classes auxiliares utilizados em todo o projeto.
 
