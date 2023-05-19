@@ -36,7 +36,7 @@ O projeto segue uma estrutura organizada, aderindo ao padrão Clean Architecture
 
 ## Testes
 
-O projeto inclui testes unitários para os casos de uso e testes de integração para a camada de dados. Para executar os testes, execute o seguinte comando:
+O projeto inclui testes unitários para os casos de uso. Para executar os testes, execute o seguinte comando:
 
 ```bash
 flutter test
